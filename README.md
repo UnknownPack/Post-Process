@@ -1,5 +1,6 @@
 # GDS1-Final-Project
-This is a repo for the final submission/ project for Game Design Studio One, a university subject at uts focused on the design and development of a computer video game of comercial quality using industry standard tools and methedologies.
+https://unknownpack.itch.io/post-processing 
+This is a repo for the final submission/ project for Game Design Studio One, a university subject at uts focused on the design and development of a computer video game of comercial quality using industry standard tools and methedologies. You can try a playable build through the link above/
 
 This repo contains the unity project, NOT THE EXECUTABLE!
 
